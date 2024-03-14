@@ -352,7 +352,7 @@
             "Rewards": [
               {
                 "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_022_S11_Badge_01.BannerToken_022_S11_Badge_01",
+                  "AssetPathName": "/Game/Athena/Items/Cosmetics/Characters/CID_405_Athena_Commando_F_Masako.CID_405_Athena_Commando_F_Masako",
                   "SubPathString": ""
                 },
                 "TemplateId": "",
@@ -3241,7 +3241,7 @@
             "Rewards": [
               {
                 "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_012_S11_Fishhook.BannerToken_012_S11_Fishhook",
+                  "AssetPathName": "/Game/Athena/Items/Cosmetics/Characters/CID_415_Athena_Commando_F_AssassinSuit.CID_415_Athena_Commando_F_AssassinSuit",
                   "SubPathString": ""
                 },
                 "TemplateId": "",
@@ -3523,7 +3523,7 @@
             "Rewards": [
               {
                 "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_013_S11_ToxicMask.BannerToken_013_S11_ToxicMask",
+                  "AssetPathName": "/Game/Athena/Items/Cosmetics/Characters/CID_425_Athena_Commando_F_CyberRunner.CID_425_Athena_Commando_F_CyberRunner",
                   "SubPathString": ""
                 },
                 "TemplateId": "",
@@ -3779,7 +3779,7 @@
             "Rewards": [
               {
                 "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_014_S11_WaterWaves.BannerToken_014_S11_WaterWaves",
+                  "AssetPathName": "/Game/Athena/Items/Cosmetics/Characters/CID_414_Athena_Commando_F_MilitaryFashion.CID_414_Athena_Commando_F_MilitaryFashion",
                   "SubPathString": ""
                 },
                 "TemplateId": "",
@@ -4199,7 +4199,7 @@
             "Rewards": [
               {
                 "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_007_S11_TreeSymbol.BannerToken_007_S11_TreeSymbol",
+                  "AssetPathName": "/Game/Athena/Items/Cosmetics/Characters/CID_485_Athena_Commando_F_SparkleRemix.CID_485_Athena_Commando_F_SparkleRemix",
                   "SubPathString": ""
                 },
                 "TemplateId": "",
@@ -4475,7 +4475,7 @@
             "Rewards": [
               {
                 "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_008_S11_DiamondShapes.BannerToken_008_S11_DiamondShapes",
+                  "AssetPathName": "/Game/Athena/Items/Cosmetics/Characters/CID_523_Athena_Commando_F_Cupid.CID_523_Athena_Commando_F_Cupid",
                   "SubPathString": ""
                 },
                 "TemplateId": "",
@@ -4908,7 +4908,7 @@
             "Rewards": [
               {
                 "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_009_S11_EightBall.BannerToken_009_S11_EightBall",
+                  "AssetPathName": "/Game/Athena/Items/Cosmetics/Characters/CID_515_Athena_Commando_M_BarbequeLarry.CID_515_Athena_Commando_M_BarbequeLarry",
                   "SubPathString": ""
                 },
                 "TemplateId": "",
@@ -5156,7 +5156,7 @@
             "Rewards": [
               {
                 "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_010_S11_Toadstool.BannerToken_010_S11_Toadstool",
+                  "AssetPathName": "/Game/Athena/Items/Cosmetics/Characters/CID_420_Athena_Commando_F_WhiteTiger.CID_420_Athena_Commando_F_WhiteTiger",
                   "SubPathString": ""
                 },
                 "TemplateId": "",
@@ -5611,7 +5611,7 @@
             "Rewards": [
               {
                 "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_011_S11_Pawmark.BannerToken_011_S11_Pawmark",
+                  "AssetPathName": "/Game/Athena/Items/Cosmetics/Characters/CID_480_Athena_Commando_F_Bubblegum.CID_480_Athena_Commando_F_Bubblegum",
                   "SubPathString": ""
                 },
                 "TemplateId": "",
